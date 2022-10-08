@@ -1,4 +1,4 @@
-![](https://github.com/kevin-otter-liu/kevin-otter-liu/blob/main/assets/developmentBanner.webp)
+![](https://github.com/kevin-otter-liu/kevin-otter-liu/blob/main/assets/developmentBanner.jpg)
 
 # Hi there, I'm Zou Zeren 👋 
 
