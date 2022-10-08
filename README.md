@@ -60,8 +60,8 @@
 
 ---
 ## 📚 Currently Learning
-1. Bash Scripting
-2. Terraform
+1. C++
+2. Fullstack Development with Javascript
 ---
 
 ### 📕 Latest Blog Posts
