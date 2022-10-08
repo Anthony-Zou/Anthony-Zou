@@ -1,4 +1,4 @@
-![](https://github.com/kevin-otter-liu/kevin-otter-liu/blob/main/assets/developmentBanner.jpg)
+![](https://github.com/Anthony-Zou/Anthony-Zou/blob/main/assets/developmentBanner.jpg)
 
 # Hi there, I'm Zou Zeren 👋 
 
