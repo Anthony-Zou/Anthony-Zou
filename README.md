@@ -4,7 +4,7 @@
 
 
 
-## I'm a Developer and a TINKERER!!
+## I'm a passionate software enginneer!!
 
 <a href="https://github.com//Anthony-Zou/Anthony-Zou">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anthony-Zou&show_icons=true&hide_border=true&count_private=true&theme=tokyonight">
