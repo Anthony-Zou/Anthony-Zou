@@ -13,7 +13,7 @@
 ---
 
 ## 👋 Connect with me:
-- 🤝 [LinkedIn](https://www.linkedin.com/in/ze-ren-zou-11a431121/)
+- 🤝 [LinkedIn](https://www.linkedin.com/in/zeren-zou-11a431121/)
 - 📧 [Email](zouzeren@gmail.com)
 
 ---
