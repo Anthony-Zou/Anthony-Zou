@@ -93,8 +93,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anthony-Zou&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-Zou&layout=compact&hide_border=true&theme=tokyonight" height="165" />
+ <img src="https://streak-stats.demolab.com?user=Anthony-Zou&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
